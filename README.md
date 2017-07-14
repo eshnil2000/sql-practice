@@ -7,10 +7,13 @@ Install [docker](https://www.docker.com/community-edition)
 
 Then build:
 ``` 
-sudo docker build -t josephjnl/sql-practice:latest \
-https://github.com/joseph-jnl/sql-practice.git#master:image
+sudo docker build -t josephjnl/jupyter-sql:latest \
+https://github.com/joseph-jnl/sql-practice.git#master:images/jupyter-sql
+
+sudo docker build -t josephjnl/mysql-practice:latest \
+https://github.com/joseph-jnl/sql-practice.git#master:images/mysql-practice
 ```
 
-or download image:
+or download images:
 ``` 
 sudo docker pull josephjnl/sql-practice
