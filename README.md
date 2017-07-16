@@ -1,5 +1,5 @@
 # sql-practice
-Practice SQL using a docker image containing a jupyter notebook, pandas, and SQLAlchemy linked to a preloaded MySQL databases
+Practice SQL using a docker image containing a jupyter notebook, pandas, and SQLAlchemy linked to preloaded MySQL databases
 
 ![SQLAlchemy](https://raw.githubusercontent.com/joseph-jnl/joseph-jnl.github.io/master/images/sql/jupyterSQL.png "SQLAlchemy")
 
